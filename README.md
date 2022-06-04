@@ -1,4 +1,3 @@
-# Predicting-Credit-Card-Approvals-using-Machine-Learning
 This project aims to build a model that can give results on whether a financial institution can
 approve credit cards to its customer. This card approval decision by financial companies is done
 based on considering various reasons related to individuals varying from creditworthiness, loan
